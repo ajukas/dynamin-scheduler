@@ -15,7 +15,7 @@ pip3 install -r requirements.txt
 The `HOSTNAME` and `PORT` are on `.env` file
 
 ```bash
-pip3 src/api.py
+python3 src/api.py
 ```
 
 ### Examples of requests to create a scheduled job
